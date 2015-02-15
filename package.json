@@ -1,5 +1,5 @@
 {
-  "name": "gulp-express-handlebars",
+  "name": "Gulpresso",
   "version": "1.0.0",
   "description": "boilerplate for websites using gulp and node, express, handlebars, sass",
   "main": "server.js",
