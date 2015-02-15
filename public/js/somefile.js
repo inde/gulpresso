@@ -1,0 +1,1 @@
+function some(){console.log("dawdawdawd")}console.log("heya");
